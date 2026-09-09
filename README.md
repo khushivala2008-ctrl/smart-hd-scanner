@@ -1,6 +1,6 @@
 # Hi there, Team- 404-brain found
 
-Welcome to my GitHub profile! we build AI-powered applications, machine learning dashboards, and computer vision projects.
+Welcome to my GitHub profile! we build website for smart image quality detection.
 
 ## 🛠️ Tech Stack & Skills
 - **Languages:** JavaScript
